@@ -1,0 +1,5 @@
+{
+  "name": "麻将打牌训练器",
+  "description": "一个用于练习麻将听牌和牌效的简洁训练器，支持自定义牌型、赖子玩法及战绩记录。",
+  "requestFramePermissions": []
+}
